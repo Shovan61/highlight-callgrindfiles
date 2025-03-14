@@ -1,0 +1,17 @@
+# callgrind format
+version: 1
+creator: callgrind-3.15.0
+cmd: ./test_program
+events: Instructions
+
+fl=test.c
+fn=main
+1 100
+2 200
+3 150
+
+fl=utils.c
+fn=helper_function
+10 50
+11 60
+12 40

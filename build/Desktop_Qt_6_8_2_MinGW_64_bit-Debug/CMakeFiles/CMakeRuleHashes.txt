@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a021ed8bb2f4a8e18fedcef7b3abe204 CMakeFiles/simpletextviewer_autogen
+54a1f332cdab2027d04a3052cecbbbe3 simpletextviewer_autogen/timestamp
